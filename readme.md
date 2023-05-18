@@ -13,5 +13,5 @@ el código realizado permite que la luz led conectada se ilumine cada ½ segundo
 https://www.tinkercad.com/things/6oi278JYADH
 
 **Imagen del montaje:**
+<img src="imagenes/practica1.jpg" alt="imagen del montaje 1" width="100">
 
-![imagen del montaje](imagenes/practica1.jpg)
