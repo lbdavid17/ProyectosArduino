@@ -17,7 +17,7 @@ El código realizado permite que la luz led conectada se ilumine cada ½ segundo
 
 **Esquema en tinkercad de la práctica:** 
 
-    https://www.tinkercad.com/things/6oi278JYADH?sharecode=HTIvoHtIdXk8-uY0MCxObmZsuCwOSmu0XJYF9Kcmbd0
+https://www.tinkercad.com/things/6oi278JYADH?sharecode=HTIvoHtIdXk8-uY0MCxObmZsuCwOSmu0XJYF9Kcmbd0
 
 **Imagen del montaje:**
 
@@ -59,7 +59,7 @@ El código realizado permite que cada vez que un detector de movimiento HC-SR04 
 
 **Esquema en tinkercad de la práctica:** 
 
-    https://www.tinkercad.com/things/9D7e7HjlMN3?sharecode=jHPtudOdX0w6g_NZTNsEyLLJVGMTESxW_lb9Ek-H8o0
+https://www.tinkercad.com/things/9D7e7HjlMN3?sharecode=jHPtudOdX0w6g_NZTNsEyLLJVGMTESxW_lb9Ek-H8o0
 
 **Imagen del montaje:**
 
@@ -92,7 +92,7 @@ Para que funcione el código necesitamos instalar las siguientes librerías:
 
 **Esquema en tinkercad de la práctica:** 
 
-    https://www.tinkercad.com/things/05m89IcgBJE?sharecode=D8xyIRo_TdpiCfvEfXtx7Ekw1w6JoPRRy7PkXzqO0_Q
+https://www.tinkercad.com/things/05m89IcgBJE?sharecode=D8xyIRo_TdpiCfvEfXtx7Ekw1w6JoPRRy7PkXzqO0_Q
 
 **Imagen del montaje:**
 
@@ -116,7 +116,7 @@ En primer lugar debemos realizar un código que nos indique la dirección de la 
 
 **Esquema en tinkercad de la práctica:** 
 
-    https://www.tinkercad.com/things/aFNaqPwl1nH?sharecode=4PjKtLYetYwIEVsJk52hpivKp-fvKYMNZzFIX9qAm0o
+https://www.tinkercad.com/things/aFNaqPwl1nH?sharecode=4PjKtLYetYwIEVsJk52hpivKp-fvKYMNZzFIX9qAm0o
 
 **Imagen del montaje:**
 
