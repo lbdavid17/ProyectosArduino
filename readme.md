@@ -40,7 +40,7 @@ Para hacerlo funcionar, conectamos el servo al pin 4, dándole una corriente de 
 
 **Esquema en tinkercad de la práctica:** 
 
-    https://www.tinkercad.com/things/6cbIWnVZEHC?sharecode=KFCZxYBxFswGhDxq30St8zhMHeuxsNO_867FXDZYH3Y
+https://www.tinkercad.com/things/6cbIWnVZEHC?sharecode=KFCZxYBxFswGhDxq30St8zhMHeuxsNO_867FXDZYH3Y
 
 **Imagen del montaje:**
 
