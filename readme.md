@@ -17,7 +17,7 @@ El código realizado permite que la luz led conectada se ilumine cada ½ segundo
 
 **Esquema en tinkercad de la práctica:** 
 
-//pendiente introducir captura del tinkercad
+    https://www.tinkercad.com/things/6oi278JYADH?sharecode=HTIvoHtIdXk8-uY0MCxObmZsuCwOSmu0XJYF9Kcmbd0
 
 **Imagen del montaje:**
 
@@ -40,7 +40,7 @@ Para hacerlo funcionar, conectamos el servo al pin 4, dándole una corriente de 
 
 **Esquema en tinkercad de la práctica:** 
 
-//pendiente introducir captura del tinkercad
+    https://www.tinkercad.com/things/6cbIWnVZEHC?sharecode=KFCZxYBxFswGhDxq30St8zhMHeuxsNO_867FXDZYH3Y
 
 **Imagen del montaje:**
 
@@ -59,7 +59,7 @@ El código realizado permite que cada vez que un detector de movimiento HC-SR04 
 
 **Esquema en tinkercad de la práctica:** 
 
-//pendiente introducir captura del tinkercad
+    https://www.tinkercad.com/things/9D7e7HjlMN3?sharecode=jHPtudOdX0w6g_NZTNsEyLLJVGMTESxW_lb9Ek-H8o0
 
 **Imagen del montaje:**
 
@@ -92,7 +92,7 @@ Para que funcione el código necesitamos instalar las siguientes librerías:
 
 **Esquema en tinkercad de la práctica:** 
 
-//pendiente introducir captura del tinkercad
+    https://www.tinkercad.com/things/05m89IcgBJE?sharecode=D8xyIRo_TdpiCfvEfXtx7Ekw1w6JoPRRy7PkXzqO0_Q
 
 **Imagen del montaje:**
 
@@ -107,11 +107,16 @@ Para que funcione el código necesitamos instalar las siguientes librerías:
 
 ### EXPLICACIÓN
 
-//pendiente ex
+El objetivo de esta práctica es mostrar el mensaje "Hola mundo" en una pantalla lcd que conectaremos a nuestro esp32.
+Debemos importar la librería LiquidCrystal_I2C:
+
+    https://github.com/johnrickman/LiquidCrystal_I2C
+
+En primer lugar debemos realizar un código que nos indique la dirección de la pantalla lcd que vamos a usar. En nuestro caso ha salido "0x3F" y es el valor que luego usaremos en el siguiente código al instanciar el objeto liquidCrystal_I2C, junto al número de columnas (16) y filas (2) de nuestra pantalla. El código no necesita un loop, es estático; se basta con el setup en el que imprimiremos el mensaje deseado.
 
 **Esquema en tinkercad de la práctica:** 
 
-//pendiente introducir captura del tinkercad
+    https://www.tinkercad.com/things/aFNaqPwl1nH?sharecode=4PjKtLYetYwIEVsJk52hpivKp-fvKYMNZzFIX9qAm0o
 
 **Imagen del montaje:**
 
